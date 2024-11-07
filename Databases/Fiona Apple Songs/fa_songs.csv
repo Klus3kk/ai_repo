@@ -1,0 +1,64 @@
+track_name,album_name,release_date,duration_ms,key,mode,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+I Want You To Love Me,Fetch The Bolt Cutters,2020-04-17,237713,9,0,0.528,0.504,-8.821,0.09,0.559,0.0414,0.0936,0.712,141.369
+Shameika,Fetch The Bolt Cutters,2020-04-17,248603,8,1,0.375,0.776,-6.767,0.274,0.154,8.16e-05,0.0925,0.647,186.814
+Fetch The Bolt Cutters,Fetch The Bolt Cutters,2020-04-17,298457,0,1,0.485,0.488,-11.34,0.171,0.526,2.02e-05,0.0686,0.339,150.856
+Under The Table,Fetch The Bolt Cutters,2020-04-17,201352,0,1,0.64,0.494,-8.14,0.0602,0.295,4.8e-06,0.248,0.547,119.854
+Relay,Fetch The Bolt Cutters,2020-04-17,289229,11,0,0.502,0.574,-8.456,0.385,0.231,0.0,0.212,0.474,92.101
+Rack of His,Fetch The Bolt Cutters,2020-04-17,222307,7,1,0.44,0.619,-9.846,0.112,0.831,0.00113,0.101,0.552,94.968
+Newspaper,Fetch The Bolt Cutters,2020-04-17,332404,11,0,0.502,0.724,-7.158,0.246,0.396,0.0,0.111,0.576,137.65
+Ladies,Fetch The Bolt Cutters,2020-04-17,325373,6,0,0.562,0.307,-9.629,0.103,0.645,0.000551,0.107,0.28,133.836
+Heavy Balloon,Fetch The Bolt Cutters,2020-04-17,206262,11,0,0.635,0.67,-6.533,0.0723,0.126,3.68e-05,0.166,0.17,83.901
+Cosmonauts,Fetch The Bolt Cutters,2020-04-17,239310,0,1,0.547,0.472,-9.218,0.256,0.702,0.0,0.168,0.537,113.705
+For Her,Fetch The Bolt Cutters,2020-04-17,163720,8,1,0.431,0.522,-9.022,0.39,0.806,0.0,0.373,0.447,174.085
+Drumset,Fetch The Bolt Cutters,2020-04-17,160324,8,1,0.75,0.661,-7.991,0.286,0.61,0.0,0.117,0.822,113.165
+On I Go,Fetch The Bolt Cutters,2020-04-17,189082,1,1,0.516,0.609,-10.649,0.142,0.241,5.3e-06,0.36,0.617,95.013
+Every Single Night,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,209386,0,1,0.687,0.195,-12.612,0.0603,0.859,0.0,0.226,0.402,125.949
+Daredevil,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,208200,7,1,0.709,0.386,-15.281,0.058,0.761,0.00131,0.0605,0.443,85.614
+Valentine,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,212840,2,1,0.51,0.18,-15.673,0.0553,0.784,0.000478,0.0944,0.145,109.973
+Jonathan,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,303733,11,1,0.548,0.423,-14.138,0.0262,0.737,0.172,0.0901,0.236,155.025
+Left Alone,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,290680,10,0,0.495,0.416,-13.717,0.041,0.673,0.0204,0.103,0.362,171.167
+Werewolf,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,192706,9,0,0.453,0.303,-13.748,0.0424,0.836,1.48e-05,0.0937,0.213,123.223
+Periphery,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,298280,7,1,0.435,0.374,-11.403,0.0417,0.657,0.0882,0.0945,0.807,109.316
+Regret,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,316960,0,1,0.663,0.287,-16.088,0.0389,0.826,0.577,0.0839,0.217,146.96
+Anything We Want,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,280893,0,1,0.728,0.413,-13.061,0.0326,0.538,0.00514,0.0864,0.425,98.497
+Hot Knife,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,242040,5,0,0.783,0.464,-13.55,0.143,0.858,1.37e-05,0.152,0.812,97.499
+Largo,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition),2012-06-18,158466,8,1,0.516,0.266,-11.271,0.0395,0.904,0.0,0.113,0.278,64.558
+Extraordinary Machine,Extraordinary Machine,2005-10-04,223613,1,1,0.701,0.202,-12.48,0.0604,0.905,0.000157,0.107,0.478,85.39
+Get Him Back,Extraordinary Machine,2005-10-04,324866,9,1,0.646,0.846,-8.307,0.0369,0.206,0.0526,0.302,0.281,119.968
+O' Sailor,Extraordinary Machine,2005-10-04,335920,2,0,0.382,0.435,-8.399,0.0249,0.194,0.00128,0.0987,0.419,105.521
+Better Version Of Me,Extraordinary Machine,2005-10-04,179600,7,0,0.621,0.748,-7.586,0.0344,0.0014,0.0172,0.0982,0.639,120.088
+Tymps (The Sick in the Head Song),Extraordinary Machine,2005-10-04,243866,8,1,0.85,0.522,-8.598,0.0482,0.306,9.53e-06,0.0506,0.643,110.012
+Parting Gift,Extraordinary Machine,2005-10-04,214786,9,1,0.41,0.149,-9.811,0.038,0.934,0.0,0.112,0.314,181.207
+Window,Extraordinary Machine,2005-10-04,331640,10,1,0.731,0.676,-6.027,0.0344,0.13,5.74e-05,0.078,0.727,121.996
+Oh Well,Extraordinary Machine,2005-10-04,220826,0,1,0.621,0.507,-6.025,0.0233,0.197,0.0,0.199,0.278,108.401
+Please Please Please,Extraordinary Machine,2005-10-04,213586,0,1,0.736,0.668,-5.955,0.0272,0.0721,1.19e-06,0.178,0.652,102.384
+Red Red Red,Extraordinary Machine,2005-10-04,248053,7,1,0.229,0.177,-12.985,0.0317,0.441,9.56e-05,0.109,0.0376,179.908
+Not About Love,Extraordinary Machine,2005-10-04,259413,0,1,0.421,0.416,-9.256,0.0326,0.165,0.0,0.11,0.113,138.118
+Waltz (Better Than Fine),Extraordinary Machine,2005-10-04,226186,2,0,0.399,0.364,-9.901,0.0277,0.822,0.0291,0.0779,0.269,169.659
+On The Bound,When The Pawn...,1999-11-09,322000,0,0,0.654,0.577,-8.217,0.0285,0.0506,0.0499,0.481,0.657,116.903
+To Your Love,When The Pawn...,1999-11-09,220026,5,0,0.685,0.611,-8.892,0.0271,0.307,0.0011,0.134,0.7,121.065
+Limp,When The Pawn...,1999-11-09,209800,9,0,0.771,0.515,-10.456,0.0499,0.116,0.000168,0.405,0.343,119.961
+Love Ridden,When The Pawn...,1999-11-09,202160,0,1,0.266,0.249,-12.908,0.0441,0.798,0.0,0.197,0.086,78.793
+Paper Bag,When The Pawn...,1999-11-09,219266,0,1,0.709,0.446,-9.904,0.037,0.716,2.39e-05,0.11,0.843,140.993
+A Mistake,When The Pawn...,1999-11-09,296400,0,1,0.624,0.772,-8.303,0.0254,0.00157,0.0334,0.186,0.537,135.74
+Fast As You Can,When The Pawn...,1999-11-09,278266,0,1,0.46,0.772,-9.233,0.0444,0.131,0.0412,0.0527,0.531,138.002
+The Way Things Are,When The Pawn...,1999-11-09,256133,9,0,0.597,0.649,-8.851,0.0247,0.257,0.00147,0.166,0.393,145.912
+Get Gone,When The Pawn...,1999-11-09,247600,10,0,0.692,0.4,-9.767,0.0349,0.212,1.55e-05,0.559,0.328,130.228
+I Know,When The Pawn...,1999-11-09,295133,0,1,0.324,0.211,-14.223,0.0287,0.944,0.0031,0.118,0.199,146.367
+Sleep to Dream,Tidal,1996-07-23,248560,2,1,0.725,0.575,-9.769,0.0511,0.0301,4.84e-05,0.136,0.757,144.157
+Sullen Girl,Tidal,1996-07-23,234706,9,0,0.306,0.297,-11.54,0.0284,0.761,0.115,0.121,0.148,137.516
+Shadowboxer,Tidal,1996-07-23,324266,2,0,0.298,0.52,-7.297,0.0303,0.265,0.0,0.165,0.223,74.131
+Criminal,Tidal,1996-07-23,341533,7,0,0.595,0.804,-7.911,0.0326,0.0129,1.97e-05,0.299,0.586,89.846
+Slow Like Honey,Tidal,1996-07-23,356400,7,0,0.356,0.27,-12.119,0.0277,0.634,6.15e-05,0.0998,0.121,141.936
+The First Taste,Tidal,1996-07-23,286960,6,1,0.682,0.729,-10.293,0.0528,0.259,0.0105,0.123,0.536,89.886
+Never Is a Promise,Tidal,1996-07-23,354533,0,1,0.328,0.193,-13.423,0.0331,0.908,0.016,0.112,0.187,116.649
+The Child Is Gone,Tidal,1996-07-23,254866,0,0,0.563,0.399,-10.638,0.024,0.343,0.00234,0.114,0.268,96.865
+Pale September,Tidal,1996-07-23,350933,1,1,0.264,0.191,-16.879,0.03,0.902,0.0398,0.103,0.16,170.208
+Carrion,Tidal,1996-07-23,343666,2,0,0.332,0.417,-9.599,0.0356,0.677,0.0364,0.104,0.179,123.374
+Criminal - Cover Version,Criminal (Cover Version),2021-07-29,303375,10,1,0.339,0.546,-6.73,0.0427,0.922,0.000142,0.118,0.203,77.924
+Love More,Love More,2021-04-15,272067,8,1,0.605,0.442,-14.252,0.0623,0.29,0.0122,0.219,0.72,139.979
+I Know (feat. Fiona Apple) - RISE Recording,I Know (feat. Fiona Apple) [RISE Recording],2019-01-25,299613,0,1,0.52,0.253,-12.407,0.0344,0.394,0.000131,0.109,0.219,139.555
+Parting Gift - Live Version,Parting Gift (Live Version),2005-10-11,216933,9,0,0.467,0.101,-11.825,0.0759,0.937,0.0,0.103,0.157,169.862
+Fast As You Can - Radio Edit,Fast As You Can EP,1999-11-20,226426,0,1,0.501,0.697,-9.382,0.0505,0.25,0.00663,0.0806,0.545,137.929
+Across the Universe - Remix,Fast As You Can EP,1999-11-20,222506,4,1,0.578,0.8,-9.469,0.0357,0.0754,0.000337,0.114,0.507,130.017
+"Never Is A Promise - Live from Sessions at West 54th, New York, NY - November 1997",Fast As You Can EP,1999-11-20,382066,0,1,0.363,0.174,-16.117,0.0445,0.905,2.88e-06,0.785,0.187,136.725
