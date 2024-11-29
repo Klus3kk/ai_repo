@@ -1,0 +1,10 @@
+latitude,longitude,date,cloud_score,image_url
+37.7749,-122.4194,2023-12-24T18:46:17.347000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/05faccd9734a1136b177d4a078340d9f-a599b431748d696b05a4f2dc8ab5f7b0:getPixels
+37.7749,-122.4194,2024-01-09T18:46:11.467000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/e549eede6b49dac29fe48fc2c1cb57b4-31097e310808e170e7132231578c6b3c:getPixels
+37.7749,-122.4194,2024-01-09T18:46:11.467000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/e549eede6b49dac29fe48fc2c1cb57b4-887a8ccf991ceb7195b49e18e97317b3:getPixels
+34.0522,-118.2437,2024-01-04T18:28:23.993000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/2de4b9c6d4da8b66b5b3c58a517c6b19-0eebc32cd5ab0c5673db08dc86da724a:getPixels
+34.0522,-118.2437,2024-01-04T18:28:23.993000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/2de4b9c6d4da8b66b5b3c58a517c6b19-10e23fc2373653acc549d986fbf95eae:getPixels
+34.0522,-118.2437,2024-01-04T18:28:23.993000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/2de4b9c6d4da8b66b5b3c58a517c6b19-b79993a57f7ebebe4f1a46ad2fdcdcb4:getPixels
+40.7128,-74.006,2023-12-22T15:40:05.435000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/126386bc03afaaea2d9d422e34b57eab-dc97edfcae0e97614c465fb72f939b59:getPixels
+40.7128,-74.006,2023-12-22T15:40:05.435000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/126386bc03afaaea2d9d422e34b57eab-3197dfa94306743f28f9c9f0c8dfc5d1:getPixels
+40.7128,-74.006,2023-12-22T15:40:05.435000,,https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/126386bc03afaaea2d9d422e34b57eab-3e3093bd150fc1885ea5943413d292c8:getPixels

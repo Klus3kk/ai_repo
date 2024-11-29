@@ -1,0 +1,246 @@
+name,currency,timezones
+Lesotho,"Lesotho loti, South African rand",UTC+02:00
+Central African Republic,Central African CFA franc,UTC+01:00
+Morocco,Moroccan dirham,UTC
+Sierra Leone,Sierra Leonean leone,UTC
+Burkina Faso,West African CFA franc,UTC
+Eritrea,Eritrean nakfa,UTC+03:00
+Tanzania,Tanzanian shilling,UTC+03:00
+Algeria,Algerian dinar,UTC+01:00
+Mauritania,Mauritanian ouguiya,UTC
+Sudan,Sudanese pound,UTC+03:00
+Western Sahara,"Algerian dinar, Moroccan dirham, Mauritanian ouguiya",UTC+00:00
+Angola,Angolan kwanza,UTC+01:00
+Ivory Coast,West African CFA franc,UTC
+Tunisia,Tunisian dinar,UTC+01:00
+Mali,West African CFA franc,UTC
+Benin,West African CFA franc,UTC+01:00
+Cape Verde,Cape Verdean escudo,UTC-01:00
+Equatorial Guinea,Central African CFA franc,UTC+01:00
+Uganda,Ugandan shilling,UTC+03:00
+Botswana,Botswana pula,UTC+02:00
+Burundi,Burundian franc,UTC+02:00
+South Africa,South African rand,UTC+02:00
+Libya,Libyan dinar,UTC+01:00
+Mayotte,Euro,UTC+03:00
+Gabon,Central African CFA franc,UTC+01:00
+Cameroon,Central African CFA franc,UTC+01:00
+Guinea,Guinean franc,UTC
+Seychelles,Seychellois rupee,UTC+04:00
+British Indian Ocean Territory,United States dollar,UTC+06:00
+Madagascar,Malagasy ariary,UTC+03:00
+DR Congo,Congolese franc,"UTC+01:00, UTC+02:00"
+Gambia,dalasi,UTC+00:00
+Somalia,Somali shilling,UTC+03:00
+Nigeria,Nigerian naira,UTC+01:00
+South Sudan,South Sudanese pound,UTC+03:00
+Eswatini,"Swazi lilangeni, South African rand",UTC+02:00
+Egypt,Egyptian pound,UTC+02:00
+"Saint Helena, Ascension and Tristan da Cunha","Pound sterling, Saint Helena pound",UTC+00:00
+Senegal,West African CFA franc,UTC
+Togo,West African CFA franc,UTC
+Kenya,Kenyan shilling,UTC+03:00
+Rwanda,Rwandan franc,UTC+02:00
+Namibia,"Namibian dollar, South African rand",UTC+01:00
+Liberia,Liberian dollar,UTC
+Zambia,Zambian kwacha,UTC+02:00
+Niger,West African CFA franc,UTC+01:00
+Comoros,Comorian franc,UTC+03:00
+Guinea-Bissau,West African CFA franc,UTC
+Ghana,Ghanaian cedi,UTC
+Chad,Central African CFA franc,UTC+01:00
+Zimbabwe,Zimbabwean dollar,UTC+02:00
+Réunion,Euro,UTC+04:00
+São Tomé and Príncipe,São Tomé and Príncipe dobra,UTC
+Malawi,Malawian kwacha,UTC+02:00
+Ethiopia,Ethiopian birr,UTC+03:00
+Republic of the Congo,Central African CFA franc,UTC+01:00
+Djibouti,Djiboutian franc,UTC+03:00
+Mauritius,Mauritian rupee,UTC+04:00
+Mozambique,Mozambican metical,UTC+02:00
+Colombia,Colombian peso,UTC-05:00
+Curaçao,Netherlands Antillean guilder,UTC-04:00
+French Guiana,Euro,UTC-03:00
+Grenada,Eastern Caribbean dollar,UTC-04:00
+Sint Maarten,Netherlands Antillean guilder,UTC-04:00
+Argentina,Argentine peso,UTC-03:00
+Turks and Caicos Islands,United States dollar,UTC-04:00
+Dominica,Eastern Caribbean dollar,UTC-04:00
+United States Minor Outlying Islands,United States dollar,"UTC-11:00, UTC-10:00, UTC+12:00"
+Costa Rica,Costa Rican colón,UTC-06:00
+Haiti,Haitian gourde,UTC-05:00
+Barbados,Barbadian dollar,UTC-04:00
+Honduras,Honduran lempira,UTC-06:00
+Puerto Rico,United States dollar,UTC-04:00
+Falkland Islands,Falkland Islands pound,UTC-04:00
+Saint Kitts and Nevis,Eastern Caribbean dollar,UTC-04:00
+Saint Lucia,Eastern Caribbean dollar,UTC-04:00
+Caribbean Netherlands,United States dollar,UTC-04:00
+Bolivia,Bolivian boliviano,UTC-04:00
+Chile,Chilean peso,"UTC-06:00, UTC-04:00"
+United States,United States dollar,"UTC-12:00, UTC-11:00, UTC-10:00, UTC-09:00, UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC+10:00, UTC+12:00"
+Guadeloupe,Euro,UTC-04:00
+Mexico,Mexican peso,"UTC-08:00, UTC-07:00, UTC-06:00"
+Saint Vincent and the Grenadines,Eastern Caribbean dollar,UTC-04:00
+Bermuda,Bermudian dollar,UTC-04:00
+Dominican Republic,Dominican peso,UTC-04:00
+Guatemala,Guatemalan quetzal,UTC-06:00
+Ecuador,United States dollar,"UTC-06:00, UTC-05:00"
+Martinique,Euro,UTC-04:00
+Suriname,Surinamese dollar,UTC-03:00
+Saint Barthélemy,Euro,UTC-04:00
+Bahamas,"Bahamian dollar, United States dollar",UTC-05:00
+Paraguay,Paraguayan guaraní,UTC-04:00
+British Virgin Islands,United States dollar,UTC-04:00
+Brazil,Brazilian real,"UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00"
+Belize,Belize dollar,UTC-06:00
+Venezuela,Venezuelan bolívar soberano,UTC-04:00
+El Salvador,United States dollar,UTC-06:00
+Peru,Peruvian sol,UTC-05:00
+Trinidad and Tobago,Trinidad and Tobago dollar,UTC-04:00
+Greenland,krone,"UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00"
+Guyana,Guyanese dollar,UTC-04:00
+Jamaica,Jamaican dollar,UTC-05:00
+Aruba,Aruban florin,UTC-04:00
+Cayman Islands,Cayman Islands dollar,UTC-05:00
+Cuba,"Cuban convertible peso, Cuban peso",UTC-05:00
+Uruguay,Uruguayan peso,UTC-03:00
+Saint Martin,Euro,UTC-04:00
+Antigua and Barbuda,Eastern Caribbean dollar,UTC-04:00
+Canada,Canadian dollar,"UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC-03:30"
+Panama,"Panamanian balboa, United States dollar",UTC-05:00
+Montserrat,Eastern Caribbean dollar,UTC-04:00
+Nicaragua,Nicaraguan córdoba,UTC-06:00
+Saint Pierre and Miquelon,Euro,UTC-03:00
+United States Virgin Islands,United States dollar,UTC-04:00
+Anguilla,Eastern Caribbean dollar,UTC-04:00
+South Korea,South Korean won,UTC+09:00
+Taiwan,New Taiwan dollar,UTC+08:00
+Jordan,Jordanian dinar,UTC+03:00
+Nepal,Nepalese rupee,UTC+05:45
+Thailand,Thai baht,UTC+07:00
+Kazakhstan,Kazakhstani tenge,"UTC+05:00, UTC+06:00"
+Georgia,lari,UTC+04:00
+Pakistan,Pakistani rupee,UTC+05:00
+Armenia,Armenian dram,UTC+04:00
+Indonesia,Indonesian rupiah,"UTC+07:00, UTC+08:00, UTC+09:00"
+Japan,Japanese yen,UTC+09:00
+Laos,Lao kip,UTC+07:00
+Lebanon,Lebanese pound,UTC+02:00
+Philippines,Philippine peso,UTC+08:00
+Bahrain,Bahraini dinar,UTC+03:00
+Qatar,Qatari riyal,UTC+03:00
+Tajikistan,Tajikistani somoni,UTC+05:00
+China,Chinese yuan,UTC+08:00
+Yemen,Yemeni rial,UTC+03:00
+India,Indian rupee,UTC+05:30
+Kuwait,Kuwaiti dinar,UTC+03:00
+Syria,Syrian pound,UTC+02:00
+Maldives,Maldivian rufiyaa,UTC+05:00
+Uzbekistan,Uzbekistani soʻm,UTC+05:00
+Iran,Iranian rial,UTC+03:30
+Myanmar,Burmese kyat,UTC+06:30
+Sri Lanka,Sri Lankan rupee,UTC+05:30
+Bhutan,"Bhutanese ngultrum, Indian rupee",UTC+06:00
+Palestine,"Egyptian pound, Israeli new shekel, Jordanian dinar",UTC+02:00
+Bangladesh,Bangladeshi taka,UTC+06:00
+Singapore,Singapore dollar,UTC+08:00
+Turkey,Turkish lira,UTC+03:00
+United Arab Emirates,United Arab Emirates dirham,UTC+04:00
+Afghanistan,Afghan afghani,UTC+04:30
+Timor-Leste,United States dollar,UTC+09:00
+Vietnam,Vietnamese đồng,UTC+07:00
+Cambodia,"Cambodian riel, United States dollar",UTC+07:00
+Iraq,Iraqi dinar,UTC+03:00
+Brunei,"Brunei dollar, Singapore dollar",UTC+08:00
+Kyrgyzstan,Kyrgyzstani som,UTC+06:00
+Azerbaijan,Azerbaijani manat,UTC+04:00
+Hong Kong,Hong Kong dollar,UTC+08:00
+Malaysia,Malaysian ringgit,UTC+08:00
+Mongolia,Mongolian tögrög,"UTC+07:00, UTC+08:00"
+Saudi Arabia,Saudi riyal,UTC+03:00
+Turkmenistan,Turkmenistan manat,UTC+05:00
+North Korea,North Korean won,UTC+09:00
+Israel,Israeli new shekel,UTC+02:00
+Oman,Omani rial,UTC+04:00
+Macau,Macanese pataca,UTC+08:00
+Norway,Norwegian krone,UTC+01:00
+Greece,Euro,UTC+02:00
+Åland Islands,Euro,UTC+02:00
+Switzerland,Swiss franc,UTC+01:00
+Croatia,Euro,UTC+01:00
+Iceland,Icelandic króna,UTC
+Luxembourg,Euro,UTC+01:00
+Hungary,Hungarian forint,UTC+01:00
+Netherlands,Euro,UTC+01:00
+Lithuania,Euro,UTC+02:00
+Slovakia,Euro,UTC+01:00
+Liechtenstein,Swiss franc,UTC+01:00
+Moldova,Moldovan leu,UTC+02:00
+Italy,Euro,UTC+01:00
+Jersey,"British pound, Jersey pound",UTC+01:00
+Monaco,Euro,UTC+01:00
+Belarus,Belarusian ruble,UTC+03:00
+Latvia,Euro,UTC+02:00
+Andorra,Euro,UTC+01:00
+France,Euro,"UTC-10:00, UTC-09:30, UTC-09:00, UTC-08:00, UTC-04:00, UTC-03:00, UTC+01:00, UTC+02:00, UTC+03:00, UTC+04:00, UTC+05:00, UTC+10:00, UTC+11:00, UTC+12:00"
+Gibraltar,Gibraltar pound,UTC+01:00
+Denmark,Danish krone,"UTC-04:00, UTC-03:00, UTC-01:00, UTC, UTC+01:00"
+North Macedonia,denar,UTC+01:00
+Malta,Euro,UTC+01:00
+Czechia,Czech koruna,UTC+01:00
+Guernsey,"British pound, Guernsey pound",UTC+00:00
+Kosovo,Euro,UTC+01:00
+Svalbard and Jan Mayen,krone,UTC+01:00
+Montenegro,Euro,UTC+01:00
+Faroe Islands,"Danish krone, Faroese króna",UTC+00:00
+Albania,Albanian lek,UTC+01:00
+Serbia,Serbian dinar,UTC+01:00
+Ukraine,Ukrainian hryvnia,UTC+02:00
+Isle of Man,"British pound, Manx pound",UTC+00:00
+Estonia,Euro,UTC+02:00
+Romania,Romanian leu,UTC+02:00
+Bulgaria,Bulgarian lev,UTC+02:00
+Germany,Euro,UTC+01:00
+Poland,Polish złoty,UTC+01:00
+United Kingdom,British pound,"UTC-08:00, UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00, UTC, UTC+01:00, UTC+02:00, UTC+06:00"
+Finland,Euro,UTC+02:00
+Sweden,Swedish krona,UTC+01:00
+Vatican City,Euro,UTC+01:00
+Russia,Russian ruble,"UTC+03:00, UTC+04:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+09:00, UTC+10:00, UTC+11:00, UTC+12:00"
+Austria,Euro,UTC+01:00
+Cyprus,Euro,UTC+02:00
+Portugal,Euro,"UTC-01:00, UTC"
+Bosnia and Herzegovina,Bosnia and Herzegovina convertible mark,UTC+01:00
+Belgium,Euro,UTC+01:00
+Spain,Euro,"UTC, UTC+01:00"
+Slovenia,Euro,UTC+01:00
+San Marino,Euro,UTC+01:00
+Ireland,Euro,UTC
+New Caledonia,CFP franc,UTC+11:00
+Solomon Islands,Solomon Islands dollar,UTC+11:00
+Marshall Islands,United States dollar,UTC+12:00
+Vanuatu,Vanuatu vatu,UTC+11:00
+Niue,New Zealand dollar,UTC-11:00
+Nauru,Australian dollar,UTC+12:00
+Cocos (Keeling) Islands,Australian dollar,UTC+06:30
+Fiji,Fijian dollar,UTC+12:00
+Wallis and Futuna,CFP franc,UTC+12:00
+Cook Islands,"Cook Islands dollar, New Zealand dollar",UTC-10:00
+Australia,Australian dollar,"UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30"
+Tuvalu,"Australian dollar, Tuvaluan dollar",UTC+12:00
+Pitcairn Islands,New Zealand dollar,UTC-08:00
+Christmas Island,Australian dollar,UTC+07:00
+Guam,United States dollar,UTC+10:00
+Tonga,Tongan paʻanga,UTC+13:00
+Tokelau,New Zealand dollar,UTC+13:00
+Samoa,Samoan tālā,UTC+13:00
+Kiribati,"Australian dollar, Kiribati dollar","UTC+12:00, UTC+13:00, UTC+14:00"
+French Polynesia,CFP franc,"UTC-10:00, UTC-09:30, UTC-09:00"
+Papua New Guinea,Papua New Guinean kina,UTC+10:00
+Palau,United States dollar,UTC+09:00
+American Samoa,United States dollar,UTC-11:00
+Northern Mariana Islands,United States dollar,UTC+10:00
+Norfolk Island,Australian dollar,UTC+11:30
+New Zealand,New Zealand dollar,"UTC-11:00, UTC-10:00, UTC+12:00, UTC+12:45, UTC+13:00"
+Micronesia,United States dollar,"UTC+10:00, UTC+11:00"

@@ -1,0 +1,246 @@
+name,region,subregion,languages
+Lesotho,Africa,Southern Africa,"English, Sotho"
+Central African Republic,Africa,Middle Africa,"French, Sango"
+Morocco,Africa,Northern Africa,"Arabic, Berber"
+Sierra Leone,Africa,Western Africa,English
+Burkina Faso,Africa,Western Africa,French
+Eritrea,Africa,Eastern Africa,"Arabic, English, Tigrinya"
+Tanzania,Africa,Eastern Africa,"English, Swahili"
+Algeria,Africa,Northern Africa,Arabic
+Mauritania,Africa,Western Africa,Arabic
+Sudan,Africa,Northern Africa,"Arabic, English"
+Western Sahara,Africa,Northern Africa,"Berber, Hassaniya, Spanish"
+Angola,Africa,Middle Africa,Portuguese
+Ivory Coast,Africa,Western Africa,French
+Tunisia,Africa,Northern Africa,Arabic
+Mali,Africa,Western Africa,French
+Benin,Africa,Western Africa,French
+Cape Verde,Africa,Western Africa,Portuguese
+Equatorial Guinea,Africa,Middle Africa,"French, Portuguese, Spanish"
+Uganda,Africa,Eastern Africa,"English, Swahili"
+Botswana,Africa,Southern Africa,"English, Tswana"
+Burundi,Africa,Eastern Africa,"French, Kirundi"
+South Africa,Africa,Southern Africa,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu"
+Libya,Africa,Northern Africa,Arabic
+Mayotte,Africa,Eastern Africa,French
+Gabon,Africa,Middle Africa,French
+Cameroon,Africa,Middle Africa,"English, French"
+Guinea,Africa,Western Africa,French
+Seychelles,Africa,Eastern Africa,"Seychellois Creole, English, French"
+British Indian Ocean Territory,Africa,Eastern Africa,English
+Madagascar,Africa,Eastern Africa,"French, Malagasy"
+DR Congo,Africa,Middle Africa,"French, Kikongo, Lingala, Tshiluba, Swahili"
+Gambia,Africa,Western Africa,English
+Somalia,Africa,Eastern Africa,"Arabic, Somali"
+Nigeria,Africa,Western Africa,English
+South Sudan,Africa,Middle Africa,English
+Eswatini,Africa,Southern Africa,"English, Swazi"
+Egypt,Africa,Northern Africa,Arabic
+"Saint Helena, Ascension and Tristan da Cunha",Africa,Western Africa,English
+Senegal,Africa,Western Africa,French
+Togo,Africa,Western Africa,French
+Kenya,Africa,Eastern Africa,"English, Swahili"
+Rwanda,Africa,Eastern Africa,"English, French, Kinyarwanda"
+Namibia,Africa,Southern Africa,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana"
+Liberia,Africa,Western Africa,English
+Zambia,Africa,Eastern Africa,English
+Niger,Africa,Western Africa,French
+Comoros,Africa,Eastern Africa,"Arabic, French, Comorian"
+Guinea-Bissau,Africa,Western Africa,"Portuguese, Upper Guinea Creole"
+Ghana,Africa,Western Africa,English
+Chad,Africa,Middle Africa,"Arabic, French"
+Zimbabwe,Africa,Southern Africa,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language"
+Réunion,Africa,Eastern Africa,French
+São Tomé and Príncipe,Africa,Middle Africa,Portuguese
+Malawi,Africa,Eastern Africa,"English, Chewa"
+Ethiopia,Africa,Eastern Africa,Amharic
+Republic of the Congo,Africa,Middle Africa,"French, Kikongo, Lingala"
+Djibouti,Africa,Eastern Africa,"Arabic, French"
+Mauritius,Africa,Eastern Africa,"English, French, Mauritian Creole"
+Mozambique,Africa,Eastern Africa,Portuguese
+Colombia,Americas,South America,Spanish
+Curaçao,Americas,Caribbean,"English, Dutch, Papiamento"
+French Guiana,Americas,South America,French
+Grenada,Americas,Caribbean,English
+Sint Maarten,Americas,Caribbean,"English, French, Dutch"
+Argentina,Americas,South America,"Guaraní, Spanish"
+Turks and Caicos Islands,Americas,Caribbean,English
+Dominica,Americas,Caribbean,English
+United States Minor Outlying Islands,Americas,North America,English
+Costa Rica,Americas,Central America,Spanish
+Haiti,Americas,Caribbean,"French, Haitian Creole"
+Barbados,Americas,Caribbean,English
+Honduras,Americas,Central America,Spanish
+Puerto Rico,Americas,Caribbean,"English, Spanish"
+Falkland Islands,Americas,South America,English
+Saint Kitts and Nevis,Americas,Caribbean,English
+Saint Lucia,Americas,Caribbean,English
+Caribbean Netherlands,Americas,Caribbean,"English, Dutch, Papiamento"
+Bolivia,Americas,South America,"Aymara, Guaraní, Quechua, Spanish"
+Chile,Americas,South America,Spanish
+United States,Americas,North America,English
+Guadeloupe,Americas,Caribbean,French
+Mexico,Americas,North America,Spanish
+Saint Vincent and the Grenadines,Americas,Caribbean,English
+Bermuda,Americas,North America,English
+Dominican Republic,Americas,Caribbean,Spanish
+Guatemala,Americas,Central America,Spanish
+Ecuador,Americas,South America,Spanish
+Martinique,Americas,Caribbean,French
+Suriname,Americas,South America,Dutch
+Saint Barthélemy,Americas,Caribbean,French
+Bahamas,Americas,Caribbean,English
+Paraguay,Americas,South America,"Guaraní, Spanish"
+British Virgin Islands,Americas,Caribbean,English
+Brazil,Americas,South America,Portuguese
+Belize,Americas,Central America,"Belizean Creole, English, Spanish"
+Venezuela,Americas,South America,Spanish
+El Salvador,Americas,Central America,Spanish
+Peru,Americas,South America,"Aymara, Quechua, Spanish"
+Trinidad and Tobago,Americas,Caribbean,English
+Greenland,Americas,North America,Greenlandic
+Guyana,Americas,South America,English
+Jamaica,Americas,Caribbean,"English, Jamaican Patois"
+Aruba,Americas,Caribbean,"Dutch, Papiamento"
+Cayman Islands,Americas,Caribbean,English
+Cuba,Americas,Caribbean,Spanish
+Uruguay,Americas,South America,Spanish
+Saint Martin,Americas,Caribbean,French
+Antigua and Barbuda,Americas,Caribbean,English
+Canada,Americas,North America,"English, French"
+Panama,Americas,Central America,Spanish
+Montserrat,Americas,Caribbean,English
+Nicaragua,Americas,Central America,Spanish
+Saint Pierre and Miquelon,Americas,North America,French
+United States Virgin Islands,Americas,Caribbean,English
+Anguilla,Americas,Caribbean,English
+South Korea,Asia,Eastern Asia,Korean
+Taiwan,Asia,Eastern Asia,Chinese
+Jordan,Asia,Western Asia,Arabic
+Nepal,Asia,Southern Asia,Nepali
+Thailand,Asia,South-Eastern Asia,Thai
+Kazakhstan,Asia,Central Asia,"Kazakh, Russian"
+Georgia,Asia,Western Asia,Georgian
+Pakistan,Asia,Southern Asia,"English, Urdu"
+Armenia,Asia,Western Asia,Armenian
+Indonesia,Asia,South-Eastern Asia,Indonesian
+Japan,Asia,Eastern Asia,Japanese
+Laos,Asia,South-Eastern Asia,Lao
+Lebanon,Asia,Western Asia,"Arabic, French"
+Philippines,Asia,South-Eastern Asia,"English, Filipino"
+Bahrain,Asia,Western Asia,Arabic
+Qatar,Asia,Western Asia,Arabic
+Tajikistan,Asia,Central Asia,"Russian, Tajik"
+China,Asia,Eastern Asia,Chinese
+Yemen,Asia,Western Asia,Arabic
+India,Asia,Southern Asia,"English, Hindi, Tamil"
+Kuwait,Asia,Western Asia,Arabic
+Syria,Asia,Western Asia,Arabic
+Maldives,Asia,Southern Asia,Maldivian
+Uzbekistan,Asia,Central Asia,"Russian, Uzbek"
+Iran,Asia,Southern Asia,Persian (Farsi)
+Myanmar,Asia,South-Eastern Asia,Burmese
+Sri Lanka,Asia,Southern Asia,"Sinhala, Tamil"
+Bhutan,Asia,Southern Asia,Dzongkha
+Palestine,Asia,Western Asia,Arabic
+Bangladesh,Asia,Southern Asia,Bengali
+Singapore,Asia,South-Eastern Asia,"English, Chinese, Malay, Tamil"
+Turkey,Asia,Western Asia,Turkish
+United Arab Emirates,Asia,Western Asia,Arabic
+Afghanistan,Asia,Southern Asia,"Dari, Pashto, Turkmen"
+Timor-Leste,Asia,South-Eastern Asia,"Portuguese, Tetum"
+Vietnam,Asia,South-Eastern Asia,Vietnamese
+Cambodia,Asia,South-Eastern Asia,Khmer
+Iraq,Asia,Western Asia,"Arabic, Aramaic, Sorani"
+Brunei,Asia,South-Eastern Asia,Malay
+Kyrgyzstan,Asia,Central Asia,"Kyrgyz, Russian"
+Azerbaijan,Asia,Western Asia,Azerbaijani
+Hong Kong,Asia,Eastern Asia,"English, Chinese"
+Malaysia,Asia,South-Eastern Asia,"English, Malay"
+Mongolia,Asia,Eastern Asia,Mongolian
+Saudi Arabia,Asia,Western Asia,Arabic
+Turkmenistan,Asia,Central Asia,"Russian, Turkmen"
+North Korea,Asia,Eastern Asia,Korean
+Israel,Asia,Western Asia,"Arabic, Hebrew"
+Oman,Asia,Western Asia,Arabic
+Macau,Asia,Eastern Asia,"Portuguese, Chinese"
+Norway,Europe,Northern Europe,"Norwegian Nynorsk, Norwegian Bokmål, Sami"
+Greece,Europe,Southern Europe,Greek
+Åland Islands,Europe,Northern Europe,Swedish
+Switzerland,Europe,Western Europe,"French, Swiss German, Italian, Romansh"
+Croatia,Europe,Southeast Europe,Croatian
+Iceland,Europe,Northern Europe,Icelandic
+Luxembourg,Europe,Western Europe,"German, French, Luxembourgish"
+Hungary,Europe,Central Europe,Hungarian
+Netherlands,Europe,Western Europe,Dutch
+Lithuania,Europe,Northern Europe,Lithuanian
+Slovakia,Europe,Central Europe,Slovak
+Liechtenstein,Europe,Western Europe,German
+Moldova,Europe,Eastern Europe,Romanian
+Italy,Europe,Southern Europe,Italian
+Jersey,Europe,Northern Europe,"English, French, Jèrriais"
+Monaco,Europe,Western Europe,French
+Belarus,Europe,Eastern Europe,"Belarusian, Russian"
+Latvia,Europe,Northern Europe,Latvian
+Andorra,Europe,Southern Europe,Catalan
+France,Europe,Western Europe,French
+Gibraltar,Europe,Southern Europe,English
+Denmark,Europe,Northern Europe,Danish
+North Macedonia,Europe,Southeast Europe,Macedonian
+Malta,Europe,Southern Europe,"English, Maltese"
+Czechia,Europe,Central Europe,"Czech, Slovak"
+Guernsey,Europe,Northern Europe,"English, French, Guernésiais"
+Kosovo,Europe,Southeast Europe,"Albanian, Serbian"
+Svalbard and Jan Mayen,Europe,Northern Europe,Norwegian
+Montenegro,Europe,Southeast Europe,Montenegrin
+Faroe Islands,Europe,Northern Europe,"Danish, Faroese"
+Albania,Europe,Southeast Europe,Albanian
+Serbia,Europe,Southeast Europe,Serbian
+Ukraine,Europe,Eastern Europe,Ukrainian
+Isle of Man,Europe,Northern Europe,"English, Manx"
+Estonia,Europe,Northern Europe,Estonian
+Romania,Europe,Southeast Europe,Romanian
+Bulgaria,Europe,Southeast Europe,Bulgarian
+Germany,Europe,Western Europe,German
+Poland,Europe,Central Europe,Polish
+United Kingdom,Europe,Northern Europe,English
+Finland,Europe,Northern Europe,"Finnish, Swedish"
+Sweden,Europe,Northern Europe,Swedish
+Vatican City,Europe,Southern Europe,"Italian, Latin"
+Russia,Europe,Eastern Europe,Russian
+Austria,Europe,Central Europe,German
+Cyprus,Europe,Southern Europe,"Greek, Turkish"
+Portugal,Europe,Southern Europe,Portuguese
+Bosnia and Herzegovina,Europe,Southeast Europe,"Bosnian, Croatian, Serbian"
+Belgium,Europe,Western Europe,"German, French, Dutch"
+Spain,Europe,Southern Europe,"Spanish, Catalan, Basque, Galician"
+Slovenia,Europe,Central Europe,Slovene
+San Marino,Europe,Southern Europe,Italian
+Ireland,Europe,Northern Europe,"English, Irish"
+New Caledonia,Oceania,Melanesia,French
+Solomon Islands,Oceania,Melanesia,English
+Marshall Islands,Oceania,Micronesia,"English, Marshallese"
+Vanuatu,Oceania,Melanesia,"Bislama, English, French"
+Niue,Oceania,Polynesia,"English, Niuean"
+Nauru,Oceania,Micronesia,"English, Nauru"
+Cocos (Keeling) Islands,Oceania,Australia and New Zealand,English
+Fiji,Oceania,Melanesia,"English, Fijian, Fiji Hindi"
+Wallis and Futuna,Oceania,Polynesia,French
+Cook Islands,Oceania,Polynesia,"English, Cook Islands Māori"
+Australia,Oceania,Australia and New Zealand,English
+Tuvalu,Oceania,Polynesia,"English, Tuvaluan"
+Pitcairn Islands,Oceania,Polynesia,English
+Christmas Island,Oceania,Australia and New Zealand,English
+Guam,Oceania,Micronesia,"Chamorro, English, Spanish"
+Tonga,Oceania,Polynesia,"English, Tongan"
+Tokelau,Oceania,Polynesia,"English, Samoan, Tokelauan"
+Samoa,Oceania,Polynesia,"English, Samoan"
+Kiribati,Oceania,Micronesia,"English, Gilbertese"
+French Polynesia,Oceania,Polynesia,French
+Papua New Guinea,Oceania,Melanesia,"English, Hiri Motu, Tok Pisin"
+Palau,Oceania,Micronesia,"English, Palauan"
+American Samoa,Oceania,Polynesia,"English, Samoan"
+Northern Mariana Islands,Oceania,Micronesia,"Carolinian, Chamorro, English"
+Norfolk Island,Oceania,Australia and New Zealand,"English, Norfuk"
+New Zealand,Oceania,Australia and New Zealand,"English, Māori, New Zealand Sign Language"
+Micronesia,Oceania,Micronesia,English
