@@ -3,10 +3,13 @@ import csv
 import re
 from bs4 import BeautifulSoup
 import time
+from tqdm import tqdm
+
+name = "The_Smiths" 
 
 # Load existing data from CSV with lyrics URLs
-input_csv = 'Portishead_songs_with_lyrics.csv'  # Path to your original CSV
-output_csv = 'Portishead_songs_with_lyrics2.csv'  # Path to save updated CSV with lyrics text
+input_csv = f'{name}_songs_with_lyrics.csv'
+output_csv = f'{name}_songs_with_lyrics_final.csv'
 
 def fetch_lyrics_from_genius(url):
     """
@@ -45,7 +48,8 @@ try:
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
 
-        for row in reader:
+        print("Fetching lyrics from Genius...")
+        for row in tqdm(reader, desc="Tracks Processed", unit="track"):
             lyrics_url = row['lyrics_url']
             if lyrics_url and lyrics_url != "Lyrics not found":
                 lyrics = fetch_lyrics_from_genius(lyrics_url)
