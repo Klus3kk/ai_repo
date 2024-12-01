@@ -3,7 +3,7 @@ import pandas as pd
 from tqdm import tqdm
 
 # NASA API KEY
-API_KEY = "mLGksc3ThWfPCo8fbfGotDWeZXp11EC3goDoAPtz"
+API_KEY = ""
 url = f"https://api.nasa.gov/neo/rest/v1/feed?start_date=2024-01-01&end_date=2024-01-07&api_key={API_KEY}"
 
 # Make the API request
